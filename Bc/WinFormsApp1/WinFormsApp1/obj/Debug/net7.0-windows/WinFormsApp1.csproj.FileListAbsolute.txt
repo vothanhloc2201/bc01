@@ -1,0 +1,57 @@
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\BEO\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.E1.resources
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form2.resources
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
+C:\Users\BEO\Desktop\New folder\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Tetris.resources
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.E1.resources
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\BEO\Desktop\Bc\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
